@@ -1,0 +1,17 @@
+We have divided our data into two groups:
+1) Questions
+2) Answers
+
+1) Questions Contains:
+	a) Scraping: Questions.py   			Output: Raw Data:- Stack_Overflow_Questions_Data
+	b) Cleaning: Cleaning.py    			Output: Cleaned Data:- Stack_Overflow_Questions_Clean_Data
+	c) Preprocessing: Preprocessing.py		Output: Preprocessed Data:- Stack_Overflow_Questions_Clean_EDA_Data
+	d) Feature Scaling: Feature_Scaling.py		Output: Raw Data:- Stack_Overflow_Questions__Feature_Scaled_Data
+	e) Text-Preprocessing: Questions_tf-idf.py 	Output: Raw Data:- In Python File
+	in that order
+
+2) Answers: 
+	a) Scraping: Answers.py 			Output: Raw Data:- Stack_Overflow_Answers_Data
+	b) Cleaning: Cleaning_Answers.py		Output: Raw Data:- Stack_Overflow_Answers_Clean_Data
+	c) Text-Preprocessing: Answers_tf-idf.py	Output: Raw Data:- In Python file
+	in that order
